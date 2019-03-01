@@ -1,4 +1,4 @@
-# CS 106B Programming Abstractions Assignment 6: 20 Questions game
+# 20 Questions game
 This problem focuses on implementing a yes/no guessing game using a binary tree. Please do not hesitate to contact me for any 
 information regarding this on my email devansh@stanford.edu.
 
